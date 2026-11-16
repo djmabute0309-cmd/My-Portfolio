@@ -32,7 +32,7 @@ html {
 }
 
 body {
-  background-color: #f8fafc;
+  background-color: #ghostwhite;
   color: #1e293b;
   line-height: 1.6;
 }
@@ -195,7 +195,7 @@ h2.section-title {
 /* About & Skills */
 
 .about-box {
-  background: white;
+  background: floralwhite;
   padding: 2.5rem;
   border-radius: 10px;
   box-shadow: 0 4px 6px rgba(0,0,0,0.05);
